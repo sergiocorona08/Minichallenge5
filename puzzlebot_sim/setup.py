@@ -2,6 +2,7 @@ from setuptools import find_packages, setup
 import os
 from glob import glob
 
+sergio = 'HDSPM'
 package_name = 'puzzlebot_sim'
 
 setup(
